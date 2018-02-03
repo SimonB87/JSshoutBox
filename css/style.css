@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background:#0fa8f2;
+  color:#000;
+  font-size: 14px;
+}
+
+#container{
+  padding: 50px;
+  margin: 10px;
+  overflow: auto;
+  border: #50829a 2px solid;
+}
+
+header{
+  background: #64ccff;
+  padding: 10px;
+}
+
+#shouts{
+  height: 200px;
+  border: #50829a 2px solid;
+  margin:30px;
+  padding: 15px;
+}
+
+#shouts li{
+  list-style: none;
+  line-height: 1.7em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+  padding: 10px;
+  background: #64ccff;
+}
